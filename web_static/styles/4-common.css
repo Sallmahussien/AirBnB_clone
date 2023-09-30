@@ -17,3 +17,7 @@ body {
   margin: 30px auto;
   
 }
+
+ul {
+  list-style-type: none;
+}
