@@ -55,6 +55,7 @@
 .places article .number-rooms,
 .places article .number-bathrooms {
   width: 100px;
+  text-align: center;
 }
 
 .places article .max-guest i,
